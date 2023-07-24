@@ -20,10 +20,15 @@ Open-Source Orbit  is a Decentralized Platform for Open Source developers. It pr
 # Advantages
 
 Open Source: GithubCrypt is an open source project and anyone can contribute to it.
+
 Decentralized: GithubCrypt is a decentralized platform and it is not controlled by any single entity.
+
 Secure: GithubCrypt is a secure platform as all the data is stored on the blockchain.
+
 Transparent: GithubCrypt is a transparent platform as all the data is stored on the blockchain.
+
 No Middleman: GithubCrypt is a platform where there is no middleman and the user can directly interact with the project owner.
+
 No Fees: GithubCrypt is a platform where there are no fees and the user can directly interact with the project owner.
 
 # How to Run
