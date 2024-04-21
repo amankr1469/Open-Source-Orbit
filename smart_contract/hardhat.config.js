@@ -1,5 +1,3 @@
-// https://eth-goerli.g.alchemy.com/v2/Ahx-Xya2uo4ZlS21ICAAM7nQ33a9vMot
-
 require('@nomiclabs/hardhat-waffle');
 
 const ALCHEMY_API_KEY = process.env.ALCHEMY_API_KEY;
